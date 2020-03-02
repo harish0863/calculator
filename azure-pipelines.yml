@@ -18,4 +18,4 @@ steps:
 - script: |
     npm install
     npm run build
-   displayName: 'Install Node.js'
+  displayName: 'npm install and build'
